@@ -1,0 +1,5 @@
+google_cloud_aiplatform==1.40.0
+pandas==2.2.2
+protobuf
+fsspec
+gcsfs
